@@ -1,0 +1,2 @@
+- `wpa3_transition_wpa3client_24ghz.pcapng`: the pre-shared password was `abcdefgh`.
+- `wpa3_transition_wpa3client_5ghz.pcapng`: the pre-shared password was `abcdefgh`.
